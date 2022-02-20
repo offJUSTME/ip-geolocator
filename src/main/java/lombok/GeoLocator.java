@@ -1,4 +1,4 @@
-package geolocator;
+package lombok;
 
 import feign.Feign;
 import feign.Param;
