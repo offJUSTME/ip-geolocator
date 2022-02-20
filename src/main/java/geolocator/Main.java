@@ -1,5 +1,8 @@
 package geolocator;
 
+import lombok.GeoLocation;
+import lombok.GeoLocator;
+
 public class Main {
 
     public static void main(String[] args) {
